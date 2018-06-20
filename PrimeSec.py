@@ -8,7 +8,7 @@ import sys
 d3=os.system("curl http://ipinfo.io/ip")
 os.system("clear && clear && clear")
 logo = '''\033[0m 
-  ____       _                ____            
+ ____       _                ____            
 |  _ \ _ __(_)_ __ ___   ___/ ___|  ___  ___ 
 | |_) | '__| | '_ ` _ \ / _ \___ \ / _ \/ __|
 |  __/| |  | | | | | | |  __/___) |  __/ (__ 
@@ -16,9 +16,9 @@ logo = '''\033[0m
     
                                            
                             \033[0m  \033[91m    \033[1m 
-       }--{+} Coded By PrimeModz {+}--{
+       }--{+} Coded By PrimeModz {+}-----------------------------{
        }--{+} FB: https://www.facebook.com/madimyoneandonly {+}--{
-       }--{+} Welcome to PrimeSec  {+}--{                               
+       }--{+} Welcome to PrimeSec  {+}---------------------------{                               
      '''
 menu = '''\033[0m
     {1}--Whois lookup
