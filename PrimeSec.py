@@ -16,9 +16,9 @@ logo = '''\033[0m
     
                                            
                             \033[0m  \033[91m    \033[1m 
-       }--{+} Coded By PrimeModz {+}-----------------------------{
-       }--{+} FB: https://www.facebook.com/madimyoneandonly {+}--{
-       }--{+} Welcome to PrimeSec  {+}---------------------------{                               
+       }--{+}  Coded By PrimeSec  {+}--{
+       }--{+}   IG: primesec.sh   {+}--{
+       }--{+} Welcome to PrimeSec {+}--{                               
      '''
 menu = '''\033[0m
     {1}--Whois lookup
